@@ -1,0 +1,427 @@
+Validating found git in: git
+Using git 2.32.0 from git
+Opening repository for path='/home/austyn' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/austyn/.bash_history' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/austyn/.bash_logout' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/austyn/.bashrc' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/austyn/.cache' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/austyn/.local' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/austyn/.profile' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/austyn/.ssh' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/austyn/.sudo_as_admin_successful' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/austyn/.vscode-server' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/austyn/.wget-hsts' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/austyn/RE.save' failed; ex=Error: spawn ENOTDIR
+> git rev-parse --git-dir
+Open repository: /home/austyn/anotherone
+> git status -z -u
+Opening repository for path='/home/austyn/hello_world.sh' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/austyn/nano.save' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/austyn/nano.save.1' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/austyn/nano.save.2' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/austyn/test' failed; ex=Error: spawn ENOTDIR
+Opening repository for path='/home/austyn/testingfile.save' failed; ex=Error: spawn ENOTDIR
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/austyn/anotherone/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+Opening repository for path='/home/austyn' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/austyn' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/austyn' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/austyn' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/austyn' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/austyn' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/austyn' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/austyn' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/austyn' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/austyn' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/austyn' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/austyn' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/austyn' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/austyn' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/austyn' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+Opening repository for path='/home/austyn' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+> git check-ignore -v -z --stdin
+> git show --textconv :testingfile
+> git ls-files --stage -- /home/austyn/anotherone/testingfile
+> git cat-file -s b5c45cc9bd09d0945973a29fccbc94724c4d5ade
+Opening repository for path='/home/austyn' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+> git show --textconv :testingfile
+> git ls-files --stage -- /home/austyn/anotherone/testingfile
+> git cat-file -s b5c45cc9bd09d0945973a29fccbc94724c4d5ade
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/austyn/anotherone/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+Opening repository for path='/home/austyn' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+> git show --textconv HEAD:testingfile
+> git show --textconv :testingfile
+> git ls-tree -l HEAD -- /home/austyn/anotherone/testingfile
+> git ls-files --stage -- /home/austyn/anotherone/testingfile
+> git cat-file -s b5c45cc9bd09d0945973a29fccbc94724c4d5ade
+> git check-ignore -v -z --stdin
+> git ls-tree -l HEAD -- /home/austyn/anotherone/testingfile
+> git ls-files --stage -- /home/austyn/anotherone/testingfile
+> git cat-file -s b5c45cc9bd09d0945973a29fccbc94724c4d5ade
+> git show --textconv :testingfile
+> git ls-files --stage -- /home/austyn/anotherone/testingfile
+> git cat-file -s b5c45cc9bd09d0945973a29fccbc94724c4d5ade
+> git ls-tree -l HEAD -- /home/austyn/anotherone/testingfile
+> git ls-files --stage -- /home/austyn/anotherone/testingfile
+> git cat-file -s b5c45cc9bd09d0945973a29fccbc94724c4d5ade
+> git ls-tree -l HEAD -- /home/austyn/anotherone/testingfile
+> git ls-files --stage -- /home/austyn/anotherone/testingfile
+> git cat-file -s b5c45cc9bd09d0945973a29fccbc94724c4d5ade
+> git ls-tree -l HEAD -- /home/austyn/anotherone/testingfile
+> git ls-files --stage -- /home/austyn/anotherone/testingfile
+> git cat-file -s b5c45cc9bd09d0945973a29fccbc94724c4d5ade
+> git ls-tree -l HEAD -- /home/austyn/anotherone/testingfile
+> git ls-files --stage -- /home/austyn/anotherone/testingfile
+> git cat-file -s b5c45cc9bd09d0945973a29fccbc94724c4d5ade
+> git ls-tree -l HEAD -- /home/austyn/anotherone/testingfile
+> git ls-files --stage -- /home/austyn/anotherone/testingfile
+> git cat-file -s b5c45cc9bd09d0945973a29fccbc94724c4d5ade
+> git ls-tree -l HEAD -- /home/austyn/anotherone/testingfile
+> git ls-files --stage -- /home/austyn/anotherone/testingfile
+> git cat-file -s b5c45cc9bd09d0945973a29fccbc94724c4d5ade
+> git add -A -- /home/austyn/anotherone/testingfile
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/austyn/anotherone/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git ls-tree -l HEAD -- /home/austyn/anotherone/testingfile
+> git ls-files --stage -- /home/austyn/anotherone/testingfile
+> git ls-files --stage -- /home/austyn/anotherone/testingfile
+> git cat-file -s e9f8df9f0def59e4bfc9602db19041dfb0ac1fe1
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git cat-file -s e9f8df9f0def59e4bfc9602db19041dfb0ac1fe1
+Warning: Failed to watch ref '/home/austyn/anotherone/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git show --textconv HEAD:testingfile
+> git show --textconv :testingfile
+> git show --textconv :testingfile
+> git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file -
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: no email was given and auto-detection is disabled
+> git config --get-all user.name
+> git ls-tree -l HEAD -- /home/austyn/anotherone/testingfile
+> git ls-files --stage -- /home/austyn/anotherone/testingfile
+> git cat-file -s e9f8df9f0def59e4bfc9602db19041dfb0ac1fe1
+> git ls-tree -l HEAD -- /home/austyn/anotherone/testingfile
+> git ls-files --stage -- /home/austyn/anotherone/testingfile
+> git ls-files --stage -- /home/austyn/anotherone/testingfile
+> git show --textconv HEAD:testingfile
+> git cat-file -s e9f8df9f0def59e4bfc9602db19041dfb0ac1fe1
+> git cat-file -s e9f8df9f0def59e4bfc9602db19041dfb0ac1fe1
+> git show --textconv HEAD:testingfile
+> git show --textconv :testingfile
+> git show --textconv :testingfile
+> git show --textconv :testingfile
+> git ls-tree -l HEAD -- /home/austyn/anotherone/testingfile
+> git ls-files --stage -- /home/austyn/anotherone/testingfile
+> git status -z -u
+> git cat-file -s e9f8df9f0def59e4bfc9602db19041dfb0ac1fe1
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/austyn/anotherone/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /home/austyn/anotherone/testingfile
+> git cat-file -s e9f8df9f0def59e4bfc9602db19041dfb0ac1fe1
+> git ls-tree -l HEAD -- /home/austyn/anotherone/testingfile
+> git ls-files --stage -- /home/austyn/anotherone/testingfile
+> git cat-file -s e9f8df9f0def59e4bfc9602db19041dfb0ac1fe1
+> git ls-files --stage -- /home/austyn/anotherone/testingfile
+> git cat-file -s e9f8df9f0def59e4bfc9602db19041dfb0ac1fe1
+> git ls-files --stage -- /home/austyn/anotherone/testingfile
+> git cat-file -s e9f8df9f0def59e4bfc9602db19041dfb0ac1fe1
+> git show --textconv :testingfile
+> git ls-files --stage -- /home/austyn/anotherone/testingfile
+> git cat-file -s e9f8df9f0def59e4bfc9602db19041dfb0ac1fe1
+> git ls-files --stage -- /home/austyn/anotherone/testingfile
+> git cat-file -s e9f8df9f0def59e4bfc9602db19041dfb0ac1fe1
+Opening repository for path='/home/austyn' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+> git ls-files --stage -- /home/austyn/anotherone/testingfile
+> git cat-file -s e9f8df9f0def59e4bfc9602db19041dfb0ac1fe1
+Opening repository for path='/home/austyn' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+> git ls-files --stage -- /home/austyn/anotherone/testingfile
+> git cat-file -s e9f8df9f0def59e4bfc9602db19041dfb0ac1fe1
+> git ls-tree -l HEAD -- /home/austyn/anotherone/testingfile
+> git ls-files --stage -- /home/austyn/anotherone/testingfile
+> git cat-file -s e9f8df9f0def59e4bfc9602db19041dfb0ac1fe1
+> git ls-files --stage -- /home/austyn/anotherone/testingfile
+> git cat-file -s e9f8df9f0def59e4bfc9602db19041dfb0ac1fe1
+> git ls-files --stage -- /home/austyn/anotherone/testingfile
+> git cat-file -s e9f8df9f0def59e4bfc9602db19041dfb0ac1fe1
+> git ls-files --stage -- /home/austyn/anotherone/testingfile
+> git cat-file -s e9f8df9f0def59e4bfc9602db19041dfb0ac1fe1
+> git ls-files --stage -- /home/austyn/anotherone/testingfile
+> git cat-file -s e9f8df9f0def59e4bfc9602db19041dfb0ac1fe1
+> git ls-files --stage -- /home/austyn/anotherone/testingfile
+> git cat-file -s e9f8df9f0def59e4bfc9602db19041dfb0ac1fe1
+Opening repository for path='/home/austyn/' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+> git ls-files --stage -- /home/austyn/anotherone/testingfile
+> git cat-file -s e9f8df9f0def59e4bfc9602db19041dfb0ac1fe1
+Opening repository for path='/home/austyn/' failed; ex=Failed to execute git {
+  "exitCode": 128,
+  "gitErrorCode": "NotAGitRepository",
+  "gitCommand": "rev-parse",
+  "stdout": "",
+  "stderr": "fatal: not a git repository (or any of the parent directories): .git\n"
+}
+> git ls-files --stage -- /home/austyn/anotherone/testingfile
+> git cat-file -s e9f8df9f0def59e4bfc9602db19041dfb0ac1fe1
+> git ls-tree -l HEAD -- /home/austyn/anotherone/testingfile
+> git ls-files --stage -- /home/austyn/anotherone/testingfile
+> git cat-file -s e9f8df9f0def59e4bfc9602db19041dfb0ac1fe1
+> git show --textconv :testingfile
+> git ls-files --stage -- /home/austyn/anotherone/testingfile
+> git cat-file -s e9f8df9f0def59e4bfc9602db19041dfb0ac1fe1
+> git ls-files --stage -- /home/austyn/anotherone/testingfile
+> git cat-file -s e9f8df9f0def59e4bfc9602db19041dfb0ac1fe1
+> git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/austyn/anotherone/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git ls-tree -l HEAD -- /home/austyn/anotherone/testingfile
+> git ls-tree -l HEAD -- /home/austyn/anotherone/testingfile
+> git ls-files --stage -- /home/austyn/anotherone/testingfile
+> git cat-file -s e9f8df9f0def59e4bfc9602db19041dfb0ac1fe1
+> git show --textconv HEAD:testingfile
+> git show --textconv HEAD:testingfile
+> git show --textconv :testingfile
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/home/austyn/anotherone/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git ls-tree -l HEAD -- /home/austyn/anotherone/testingfile
+> git ls-tree -l HEAD -- /home/austyn/anotherone/testingfile
+> git log --oneline --cherry main...main@{upstream} --
+> git pull --tags origin main
+From https://github.com/austyngillis/anotherone
+ * branch            main       -> FETCH_HEAD
+hint: Pulling without specifying how to reconcile divergent branches is
+hint: discouraged. You can squelch this message by running one of the following
+hint: commands sometime before your next pull:
+hint: 
+hint:   git config pull.rebase false  # merge (the default strategy)
+hint:   git config pull.rebase true   # rebase
+hint:   git config pull.ff only       # fast-forward only
+hint: 
+hint: You can replace "git config" with "git config --global" to set a default
+hint: preference for all repositories. You can also pass --rebase, --no-rebase,
+hint: or --ff-only on the command line to override the configured default per
+hint: invocation.
+> git push origin main:main
+> git ls-tree -l HEAD -- /home/austyn/anotherone/testingfile
+> git ls-tree -l HEAD -- /home/austyn/anotherone/testingfile
+> git ls-tree -l HEAD -- /home/austyn/anotherone/testingfile
+> git ls-files --stage -- /home/austyn/anotherone/testingfile
+> git show --textconv HEAD:testingfile
+> git cat-file -s e9f8df9f0def59e4bfc9602db19041dfb0ac1fe1
+> git show --textconv HEAD:testingfile
+> git show --textconv HEAD:testingfile
+> git show --textconv :testingfile
+> git ls-tree -l HEAD -- /home/austyn/anotherone/testingfile
+> git ls-tree -l HEAD -- /home/austyn/anotherone/testingfile
+> git ls-tree -l HEAD -- /home/austyn/anotherone/testingfile
+> git ls-tree -l HEAD -- /home/austyn/anotherone/testingfile
+> git ls-tree -l HEAD -- /home/austyn/anotherone/testingfile
+remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
+fatal: Authentication failed for 'https://github.com/austyngillis/anotherone.git/'
+> git ls-tree -l HEAD -- /home/austyn/anotherone/testingfile
+> git ls-tree -l HEAD -- /home/austyn/anotherone/testingfile
+> git ls-tree -l HEAD -- /home/austyn/anotherone/testingfile
+> git ls-tree -l HEAD -- /home/austyn/anotherone/testingfile
+> git show --textconv :testingfile
+> git ls-files --stage -- /home/austyn/anotherone/testingfile
+> git cat-file -s e9f8df9f0def59e4bfc9602db19041dfb0ac1fe1

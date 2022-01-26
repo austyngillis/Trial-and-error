@@ -1,0 +1,46 @@
+
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+Extension host agent listening on 34977
+
+[13:33:34] Extension host agent started.
+[13:33:35] [127.0.0.1][4d1fdabf][ManagementConnection] New connection established.
+[13:33:35] [127.0.0.1][bcc2984f][ExtensionHostConnection] New connection established.
+[13:33:35] [127.0.0.1][bcc2984f][ExtensionHostConnection] <8195> Launched Extension Host Process.
+[13:43:04] [127.0.0.1][4d1fdabf][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[13:43:04] [127.0.0.1][bcc2984f][ExtensionHostConnection] <8195> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[13:43:04] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[13:45:17] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[13:45:17] Cancelling previous shutdown timeout
+[13:45:17] [127.0.0.1][9a7d04bf][ManagementConnection] New connection established.
+[13:45:17] [127.0.0.1][22715504][ExtensionHostConnection] New connection established.
+[13:45:17] [127.0.0.1][22715504][ExtensionHostConnection] <8748> Launched Extension Host Process.
+[IPC Library: Pty Host]  INFO Persistent process "6": Replaying 559 chars and 1 size events
+New EH opened, aborting shutdown
+[13:50:17] New EH opened, aborting shutdown
+[14:08:38] [127.0.0.1][9a7d04bf][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[14:08:38] [127.0.0.1][22715504][ExtensionHostConnection] <8748> Extension Host Process exited with code: 0, signal: null.
+Last EH closed, waiting before shutting down
+[14:08:38] Last EH closed, waiting before shutting down
+Got delay-shutdown request while in shutdown timeout, delaying
+[14:09:02] Got delay-shutdown request while in shutdown timeout, delaying
+Cancelling previous shutdown timeout
+[14:09:02] Cancelling previous shutdown timeout
+[14:09:03] [127.0.0.1][deecf7fa][ManagementConnection] New connection established.
+[14:09:03] [127.0.0.1][60d8cd8e][ExtensionHostConnection] New connection established.
+[14:09:03] [127.0.0.1][60d8cd8e][ExtensionHostConnection] <10050> Launched Extension Host Process.
+[IPC Library: Pty Host]  INFO Persistent process "14": Replaying 694 chars and 1 size events
+[IPC Library: Pty Host]  INFO Persistent process "15": Replaying 1908 chars and 1 size events
+[IPC Library: Pty Host]  INFO Persistent process "16": Replaying 368 chars and 1 size events
+[IPC Library: Pty Host]  INFO Persistent process "17": Replaying 503 chars and 1 size events
+New EH opened, aborting shutdown
+[14:14:02] New EH opened, aborting shutdown
