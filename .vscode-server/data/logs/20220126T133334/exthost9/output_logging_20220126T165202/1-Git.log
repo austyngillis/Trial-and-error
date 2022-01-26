@@ -1,0 +1,125 @@
+Validating found git in: git
+Using git 2.32.0 from git
+> git rev-parse --git-dir
+Open repository: /home/austyn/anotherone2
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :hello_world.sh
+> git ls-files --stage -- /home/austyn/anotherone2/hello_world.sh
+> git show --textconv :testingfile
+> git ls-files --stage -- /home/austyn/anotherone2/testingfile
+> git cat-file -s e9f8df9f0def59e4bfc9602db19041dfb0ac1fe1
+> git show --textconv HEAD:hello_world.sh
+> git ls-tree -l HEAD -- /home/austyn/anotherone2/hello_world.sh
+> git ls-tree -l HEAD -- /home/austyn/anotherone2/hello_world.sh
+> git push origin main:main
+To https://github.com/austyngillis/Trial-and-error.git
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/austyngillis/Trial-and-error.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+> git ls-tree -l HEAD -- /home/austyn/anotherone2/hello_world.sh
+> git ls-tree -l HEAD -- /home/austyn/anotherone2/hello_world.sh
+> git log --oneline --cherry main...main@{upstream} --
+> git pull --tags origin main
+From https://github.com/austyngillis/Trial-and-error
+ * branch            main       -> FETCH_HEAD
+ + 00dc24f...e93de6e main       -> origin/main  (forced update)
+hint: Pulling without specifying how to reconcile divergent branches is
+hint: discouraged. You can squelch this message by running one of the following
+hint: commands sometime before your next pull:
+hint: 
+hint:   git config pull.rebase false  # merge (the default strategy)
+hint:   git config pull.rebase true   # rebase
+hint:   git config pull.ff only       # fast-forward only
+hint: 
+hint: You can replace "git config" with "git config --global" to set a default
+hint: preference for all repositories. You can also pass --rebase, --no-rebase,
+hint: or --ff-only on the command line to override the configured default per
+hint: invocation.
+fatal: refusing to merge unrelated histories
+> git ls-tree -l HEAD -- /home/austyn/anotherone2/hello_world.sh
+> git ls-tree -l HEAD -- /home/austyn/anotherone2/hello_world.sh
+> git show --textconv HEAD:hello_world.sh
+> git show --textconv HEAD:hello_world.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-tree -l HEAD -- /home/austyn/anotherone2/hello_world.sh
+> git ls-tree -l HEAD -- /home/austyn/anotherone2/hello_world.sh
+> git show --textconv :testingfile
+> git ls-files --stage -- /home/austyn/anotherone2/testingfile
+> git cat-file -s e9f8df9f0def59e4bfc9602db19041dfb0ac1fe1
+> git show --textconv :hello_world.sh
+> git ls-files --stage -- /home/austyn/anotherone2/hello_world.sh
+> git add -A -- .
+> git -c user.useConfigOnly=true commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/austyn/anotherone2/hello_world.sh
+> git cat-file -s 96372a229dbcef8a27a1d351d6db44206ec84edf
+> git show --textconv :hello_world.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --oneline --cherry main...main@{upstream} --
+> git pull --tags origin main
+From https://github.com/austyngillis/Trial-and-error
+ * branch            main       -> FETCH_HEAD
+hint: Pulling without specifying how to reconcile divergent branches is
+hint: discouraged. You can squelch this message by running one of the following
+hint: commands sometime before your next pull:
+hint: 
+hint:   git config pull.rebase false  # merge (the default strategy)
+hint:   git config pull.rebase true   # rebase
+hint:   git config pull.ff only       # fast-forward only
+hint: 
+hint: You can replace "git config" with "git config --global" to set a default
+hint: preference for all repositories. You can also pass --rebase, --no-rebase,
+hint: or --ff-only on the command line to override the configured default per
+hint: invocation.
+fatal: refusing to merge unrelated histories
+> git ls-files --stage -- /home/austyn/anotherone2/hello_world.sh
+> git cat-file -s 96372a229dbcef8a27a1d351d6db44206ec84edf
+> git show --textconv :hello_world.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/austyn/anotherone2/hello_world.sh
+> git cat-file -s 96372a229dbcef8a27a1d351d6db44206ec84edf
+> git show --textconv :hello_world.sh
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/austyn/anotherone2/hello_world.sh
