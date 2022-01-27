@@ -1,4 +1,4 @@
-#! /bin/bash
+#!/bin/bash
 
 # Script name: hello_world.sh
 # Author: Austyn Gillis
