@@ -10,3 +10,6 @@
 [2022-01-27 15:16:06.369] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/austyn/Trial-and-error/bash_login_info.sh' is in submodule 'Trial-and-error'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
 [2022-01-27 15:16:06.369] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/austyn/Trial-and-error/bash_login_info.sh' is in submodule 'Trial-and-error'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
 [2022-01-27 15:16:06.369] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/austyn/Trial-and-error/bash_login_info.sh' is in submodule 'Trial-and-error'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-27 15:41:53.232] [exthost] [info] extension host terminating: received terminate message from renderer
+[2022-01-27 15:41:53.234] [exthost] [info] Lock '/home/austyn/.vscode-server/data/User/workspaceStorage/038728d8775fe99d8030dcfbf97c3aeb/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-01-27 15:41:53.252] [exthost] [info] Extension host with pid 44096 exiting with code 0

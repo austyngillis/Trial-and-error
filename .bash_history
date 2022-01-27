@@ -129,3 +129,7 @@ login_info
 ls
 git commit Trial-and-error
 git push
+git add
+git add.
+git add .
+git push
