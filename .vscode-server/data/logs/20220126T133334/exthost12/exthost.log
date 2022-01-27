@@ -58,3 +58,9 @@
 [2022-01-26 17:10:35.405] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
 [2022-01-26 17:10:35.426] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
 [2022-01-26 17:10:35.610] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2022-01-26 17:57:06.351] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-01-26 17:57:06.367] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-01-26 17:57:06.422] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-01-26 20:14:49.448] [exthost] [info] extension host terminating: received terminate message from renderer
+[2022-01-26 20:14:49.449] [exthost] [info] Lock '/home/austyn/.vscode-server/data/User/workspaceStorage/038728d8775fe99d8030dcfbf97c3aeb/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-01-26 20:14:49.489] [exthost] [info] Extension host with pid 22976 exiting with code 0

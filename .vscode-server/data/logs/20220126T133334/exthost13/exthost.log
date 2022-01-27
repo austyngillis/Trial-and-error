@@ -1,0 +1,16 @@
+[2022-01-26 22:34:10.820] [exthost] [info] Extension host with pid 29908 started
+[2022-01-26 22:34:10.828] [exthost] [info] Lock '/home/austyn/.vscode-server/data/User/workspaceStorage/038728d8775fe99d8030dcfbf97c3aeb/vscode.lock': Lock acquired.
+[2022-01-26 22:34:11.322] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: 'onFileSystem:git', root cause: vscode.git
+[2022-01-26 22:34:11.328] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-01-26 22:34:12.545] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'onFileSystem:git'
+[2022-01-26 22:34:12.622] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-01-26 22:34:12.733] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-26 22:34:12.750] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-01-26 22:34:12.754] [exthost] [info] Eager extensions activated
+[2022-01-26 22:34:58.780] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/austyn/Trial-and-error/hello_world.sh' is in submodule 'Trial-and-error'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-26 22:34:58.780] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/austyn/Trial-and-error/hello_world.sh' is in submodule 'Trial-and-error'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-26 22:36:12.951] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/austyn/Trial-and-error/bash login info.sh' is in submodule 'Trial-and-error'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-26 23:05:32.740] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-01-26 23:05:32.760] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+[2022-01-26 23:05:32.938] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+[2022-01-26 23:31:56.595] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/austyn/Trial-and-error/bash_login_info.sh' is in submodule 'Trial-and-error'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}

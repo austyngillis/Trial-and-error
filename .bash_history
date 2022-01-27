@@ -61,3 +61,39 @@ git commit -m "First commit"
 git add
 git add .
 git pull https://github.com/austyngillis/Trial-and-error.git
+nano
+git stats
+git status
+git add Trial-and-error
+cd ..
+ls
+git add Trial-and-error
+git status
+git commit -a
+git add
+git add .
+git help
+ls
+git: show git output
+git init
+git add hello_world.sh
+ls
+cd ..
+ls
+cd /austyn
+cd austyn/
+ls
+cd Trial-and-error/
+ls
+git init
+git add hello_world.sh
+git status
+git add README.md
+git status
+git commit
+git remote -v
+git push -origin master
+git push -u origin master
+git push -u origin master
+ls
+git push https://github.com/austyngillis/Trial-and-error
