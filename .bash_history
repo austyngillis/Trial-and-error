@@ -126,3 +126,6 @@ bash bash_login_info.sh
 ./bash_login_info.sh
 login_info
 ./bash_login_info.sh
+ls
+git commit Trial-and-error
+git push
