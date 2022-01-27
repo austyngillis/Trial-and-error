@@ -14,3 +14,6 @@
 [2022-01-26 23:05:32.760] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
 [2022-01-26 23:05:32.938] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
 [2022-01-26 23:31:56.595] [exthost] [error] {"message":"Git error","stdout":"","stderr":"fatal: Pathspec '/home/austyn/Trial-and-error/bash_login_info.sh' is in submodule 'Trial-and-error'\n","exitCode":128,"gitErrorCode":"IsInSubmodule"}
+[2022-01-27 15:12:56.169] [exthost] [info] extension host terminating: received terminate message from renderer
+[2022-01-27 15:12:56.170] [exthost] [info] Lock '/home/austyn/.vscode-server/data/User/workspaceStorage/038728d8775fe99d8030dcfbf97c3aeb/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-01-27 15:12:56.194] [exthost] [info] Extension host with pid 29908 exiting with code 0

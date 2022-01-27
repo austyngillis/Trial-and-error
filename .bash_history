@@ -97,3 +97,32 @@ git push -u origin master
 git push -u origin master
 ls
 git push https://github.com/austyngillis/Trial-and-error
+ls
+man
+man git
+last
+hello_world.sh
+./hellow_world.sh
+./hello_world.sh
+bash hello_world.sh
+ls
+./hello_world.sh
+hello_world.sh
+ls
+cd ..
+cd /austyn
+cd austyn/
+ls
+cd Trial-and-error/
+bash hello_world.sh
+chmod +x bash_login_info.sh
+./bash_login_info.sh
+last
+ls
+bash bash_login_info.sh
+last
+bash bash_login_info.sh
+./hello_world.sh
+./bash_login_info.sh
+login_info
+./bash_login_info.sh
