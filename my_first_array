@@ -1,0 +1,6 @@
+#!/bin/bash
+#My first array
+directory_list=("red" "blue" "green" "yellow")
+mkdir ${directory_list[*]}
+
+touch {red,blue,green,yellow}/outputfile.txt
