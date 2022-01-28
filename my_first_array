@@ -1,6 +1,7 @@
 #!/bin/bash
 #My first array
-directory_list=("red" "blue" "green" "yellow")
+directory_list=("/home/austyn/Trial-and-error/red" "/home/austyn/Trial-and-error/blue" 
+"/home/austyn/Trial-and-error/green" "/home/austyn/Trial-and-error/yellow")
 mkdir ${directory_list[*]}
 
 touch {red,blue,green,yellow}/outputfile.txt
