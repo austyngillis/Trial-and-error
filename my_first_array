@@ -2,6 +2,8 @@
 #My first array
 directory_list=("/home/austyn/Trial-and-error/red" "/home/austyn/Trial-and-error/blue" 
 "/home/austyn/Trial-and-error/green" "/home/austyn/Trial-and-error/yellow")
-mkdir ${directory_list[*]}
+    mkdir ${directory_list[*]} 
 
 touch {red,blue,green,yellow}/outputfile.txt
+
+echo Rude Script says: TAKE YOUR DIRECTORIES AND GET OUT OF MY interFACE!
