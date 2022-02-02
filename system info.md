@@ -5,12 +5,12 @@
 #Purpose: Display system information
 # Declaration of variables: N/A 
 echo "Computer name:"
-sudo lshw | grep "elysium"
+lshw | grep -m1 ""
 echo "CPU Information"
-sudo lshw | grep -A 4 "CPU"
+lshw | grep -A 4 "CPU"
 echo "RAM Information"
-sudo lshw | grep -B 3 "size: 7GiB"
+lshw | grep -B 3 "size: 7GiB"
 echo "Display Information"
-sudo lshw | grep -A 11 "display"
+lshw | grep -A 11 "display"
 echo "Network information"
-sudo lshw | grep -A 15 "network"
+lshw | grep -A 15 "network"
