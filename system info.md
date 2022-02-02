@@ -1,4 +1,9 @@
 #!/bin/bash
+# Script name: systeminfo
+# Author: Austyn Gillis
+#Last revision: 02/02/2022
+#Purpose: Display system information
+# Declaration of variables: N/A 
 echo "Computer name:"
 sudo lshw | grep "elysium"
 echo "CPU Information"
