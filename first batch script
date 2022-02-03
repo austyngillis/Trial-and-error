@@ -1,0 +1,3 @@
+@echo off
+
+robocopy C:\Users\j.thompson\Desktop C:\Users\j.thompson\nackupdk\back2 * /e
