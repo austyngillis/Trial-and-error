@@ -1,1 +1,12 @@
 
+$Event = Get-Eventlog -LogName System -Newest 20
+
+get-eventlog -computername desktop-fimajs8 -entrytype Warning,Error,Information -logname system -After (Get-Date).AddDays(-1) | Out-File C:\Users\austy\Desktop\last_24.txt
+
+get-eventlog -computername desktop-fimajs8 -entrytype Error -logname system | Out-File C:\Users\austy\Desktop\errors.txt
+
+get-eventlog -computername desktop-fimajs8 -entrytype Warning,Error,Information -logname system | Select-String -Pattern "The description for Event ID'16'" -CaseSensitive -SimpleMatch  
+
+Write-Output $Event 
+
+get-eventlog -computername desktop-fimajs8 -entrytype Error,Warning,Information -logname system -Newest 500 | Write-Output | Format-List
