@@ -1,3 +1,8 @@
+# Script name: Retrieve-log
+# Author: Austyn Gillis
+#LAst revision: 02/03/2022
+#Purpose: Retrieve event log info
+
 
 $Event = Get-Eventlog -LogName System -Newest 20
 
