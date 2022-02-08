@@ -1,7 +1,7 @@
-
-
-
-
+# Script name: NewHirePSConfig
+# Author: Austyn Gillis
+#LAst revision: 02/08/2022
+#Purpose: Configure Powershell settings for new desktops.
 
 
 #Enable "File and Printer Sharing"
