@@ -1,3 +1,11 @@
-# Trial-and-error
-trial and error never ends
-text change
+Trial-and-error
+
+This repo contains the scripts from my "operations" challenges in the Codefellows/Ops 201 course. Each script focuses on introducing a new skill whether in the form of introducing a new coding language or new command for a previously introduced coding language. I am learning these skills in order to transition my career into becoming a cyber security professional. 
+
+During my time in Ops201 I learned a lot about better understanding syntax in coding. I've learned about the differences between operating systems like Windows and Linux and how to deploy those operating systems onto computers/virtual machines in VirtualBox. I was also taught useful/core troubleshooting skills and a useful template to follow when troubleshooting. We went over the importance of backups and the idea of redundancy and restoration. We learned basic concepts in networking like visualizing basic network topography and creating and/or setting up routers. Virtualization was a large part of the course from virtualizing many different virtual machines to virtualizing a router. Basic security concepts were prevalent throughout the course and I got to perform some basic security operations like configuring firewalls and setting permissions.
+
+My favorite Ops challenge from the course would be Ops Challenge 07: System Information. I remember slowly piecing together the script in a way that I wasn't sure was the most efficient or like how a more experienced coder would do it, but ultimately got me to the end result I wanted. Marco has pointed out that there are many different ways to write a script for a desired outcome and this definitely reinforced that idea.
+
+Shell scripting will be useful in the workplace by allowing be to deploy scripts/configure system settings remotely and efficiently.
+
+If I had time I would like to improve most of my scripts by going for stretch goals or adding additional functionality. This is because this is a fast-paced class and it is difficult fleshing scripts out beyond the minimum requirements given the time constraints. I look forward to improving my understanding of syntax and being able to string together code with more confidence that its going to work,
